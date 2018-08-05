@@ -1,4 +1,4 @@
-FSharp Sound
+.NET Sound App
 ===
 
 LICENSE: zlib/png license
